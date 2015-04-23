@@ -1,1 +1,5 @@
-I hope this creates a conflict
+So one time I did this thing called Git stash and its unfoundable.
+
+Could be possible I misremembered but who really knows.
+
+Unirreversible?
