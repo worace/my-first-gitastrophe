@@ -1,0 +1,2 @@
+Here is my .txt file. Im going to add some text, maybe even a paragraph or two.
+Actually that is too much writing so I'll probably just ramble for a second and then commit this. Git commit origin master -f !
